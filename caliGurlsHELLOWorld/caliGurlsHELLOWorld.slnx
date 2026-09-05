@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="caliGurlsHELLOWorld/caliGurlsHELLOWorld.vcxproj" />
+  <Project Path="caliGurlsHELLOWorld/caliGurlsHELLOWorld.vcxproj" Id="d2e90551-a319-4344-bd0c-7e44d94f8620" />
 </Solution>
