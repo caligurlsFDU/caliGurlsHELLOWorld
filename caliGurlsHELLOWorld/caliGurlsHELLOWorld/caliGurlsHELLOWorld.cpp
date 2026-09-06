@@ -8,7 +8,7 @@ int main()
     std::cout << "Hello World! - Cali Gurls\n";
 }
 
-//Hiii ^-^ - Thomas Nichol 
+//Hiii ^-^ - Thomas Nichol and Ivan Cintron
 
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
