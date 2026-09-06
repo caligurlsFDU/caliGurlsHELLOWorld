@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World! - Cali Gurls\n";
+    std::cout << "Hello World! - Cali Gurls - Today is Thursday\n";
 }
 
 //Hiii ^-^ - Thomas Nichol and Ivan Cintron
